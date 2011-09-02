@@ -17,7 +17,7 @@ When calling `wp_tag_cloud`, add key `drop_bottom` (and/or `drop_top`) with one 
 * `'N%'` with N  an integer. Will drop tags with the N percent smallest (largest) post counts.
 * `'Xs'` with X a float. Will drop tags with post count more than X times standard deviation below (above) the average of all counts.
 
-Please direct your support questions to the [forums](TODO) and report bugs or ideas [here](http://bugs.verrech.net/thebuggenie/significanttags).
+Please direct your support questions to the [forums](http://wordpress.org/tags/significant-tags?forum_id=10) and report bugs or ideas [here](http://bugs.verrech.net/thebuggenie/significanttags).
 
 == Installation ==
 Install and activate via Wordpress' plugin management.
