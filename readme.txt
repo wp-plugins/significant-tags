@@ -2,7 +2,7 @@
 Contributors: akerbos87
 Tags: tags, filter, tagcloud
 Requires at least: 3.2.0
-Tested up to: 3.2.1
+Tested up to: 3.3.1
 Stable tag: 1.0
 
 Adds parameters to Wordpress' tagcloud for filtering out insignificant tags.
